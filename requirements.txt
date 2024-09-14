@@ -1,0 +1,16 @@
+torch 
+numpy 
+pandas 
+transformers
+packaging
+Pillow
+torchvision
+transformers
+sentencepiece
+decord
+wheel
+flash_attn
+bitsandbytes
+accelerate
+bs4
+openpyxl
